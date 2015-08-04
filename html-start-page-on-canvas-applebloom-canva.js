@@ -32,7 +32,7 @@ APELSERG.CANVA.Rewrite = function () {
     ctx.strokeText(dateCurrentStr, 20, 30);
 
     // ссылки
-    for (var n = 0 in APELSERG.MODEL.DATA.Links) {
+    for (var n in APELSERG.MODEL.DATA.Links) {
 
         var link = APELSERG.MODEL.DATA.Links[n];
 
@@ -52,7 +52,7 @@ APELSERG.CANVA.Rewrite = function () {
     }
 
     // лепестки (поверх контента)
-    for (var n = 0 in APELSERG.MODEL.DATA.Applebloom) {
+    for (var n in APELSERG.MODEL.DATA.Applebloom) {
 
         var flake = APELSERG.MODEL.DATA.Applebloom[n];
 

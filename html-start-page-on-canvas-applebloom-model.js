@@ -37,7 +37,7 @@ APELSERG.MODEL.MakeLinks = function () {
         { name: "GitHub - Шаблонетка Start page Applebloom", url: "https://github.com/apelserg/stencil-html-start-page-on-canvas-applebloom" },
     ];
 
-    for (var n = 0 in linksList) {
+    for (var n in linksList) {
 
         var color = "blue";
         var link = new APELSERG.MODEL.Link(linksList[n].url, linksList[n].name, baseX, baseY + 30 * n, linksList[n].name.length * 10 + 30, 30, color);
@@ -137,7 +137,7 @@ APELSERG.MODEL.CheckMoveFrame = function (frame) {
 //===
 APELSERG.MODEL.UpdateButtons = function () {
 
-    for (var n = 0 in APELSERG.MODEL.DATA.Links) {
+    for (var n in APELSERG.MODEL.DATA.Links) {
 
         var link = APELSERG.MODEL.DATA.Links[n];
 
@@ -164,7 +164,7 @@ APELSERG.MODEL.UpdateButtons = function () {
 //===
 APELSERG.MODEL.UpdateApplebloom = function () {
 
-    for (var n = 0 in APELSERG.MODEL.DATA.Applebloom) {
+    for (var n in APELSERG.MODEL.DATA.Applebloom) {
 
         var flake = APELSERG.MODEL.DATA.Applebloom[n];
 
