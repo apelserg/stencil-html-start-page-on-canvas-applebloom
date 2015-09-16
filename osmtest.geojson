@@ -1,0 +1,17 @@
+﻿{
+"type": "FeatureCollection",
+"features": [
+  { "type": "Feature",
+    "geometry": {"type": "Point", "coordinates": [52.5738875,-0.2416701]},
+    "properties": {"name": "Peterborough", "population": 183600}
+  },
+  { "type": "Feature",
+    "geometry": {"type": "Point", "coordinates": [52.2033051,0.124862]},
+    "properties": {"name": "Cambridge", "population": 130000}
+  },
+  { "type": "Feature",
+    "geometry": {"type": "Point", "coordinates": [52.3998376,0.2630951]},
+    "properties": {"name": "Ely", "population": 15102}
+  }
+]
+}
