@@ -12,6 +12,7 @@
   { "type": "Feature",
     "geometry": {"type": "Point", "coordinates": [0.2630951,52.3998376]},
     "properties": {"name": "Ely", "population": 15102}
-  }
+  },
+  {}
 ]
 }
