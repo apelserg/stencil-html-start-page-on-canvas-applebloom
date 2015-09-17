@@ -1,18 +1,1 @@
-﻿{
-"type": "FeatureCollection",
-"features": [
-  { "type": "Feature",
-    "geometry": {"type": "Point", "coordinates": [-0.2416701,52.5738875]},
-    "properties": {"name": "Peterborough", "population": 183600}
-  },
-  { "type": "Feature",
-    "geometry": {"type": "Point", "coordinates": [0.124862,52.2033051]},
-    "properties": {"name": "Cambridge", "population": 130000}
-  },
-  { "type": "Feature",
-    "geometry": {"type": "Point", "coordinates": [0.2630951,52.3998376]},
-    "properties": {"name": "Ely", "population": 15102}
-  },
-  {}
-]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates": [-0.2416701,52.5738875]},"properties":{"name":"Peterborough","population":183600}},{"type":"Feature","geometry":{"type":"Point","coordinates": [0.124862,52.2033051]},"properties":{"name":"Cambridge","population":130000}},{"type":"Feature","geometry":{"type":"Point","coordinates": [0.2630951,52.3998376]},"properties":{"name":"Ely","population":15102}},{}]}
