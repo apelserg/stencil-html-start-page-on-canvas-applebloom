@@ -16,11 +16,6 @@
 },
 {
 "type":"Feature",
-"geometry":{"type":"Point","coordinates":[0.1481464,52.7400444]},
-"properties":{"Name":"No name","Type":"No type"}
-},
-{
-"type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.1250502,52.2043191]},
 "properties":{"Name":"No name","Type":"No type"}
 },
