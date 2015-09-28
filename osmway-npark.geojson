@@ -2,1037 +2,1037 @@
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2607734,52.6210318]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2613749,52.6210516]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2605256,52.6207336]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2605357,52.6206787]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2610313,52.6206018]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2613386,52.6207372]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2525052,52.6089054]},
-"properties":{"Name":"Pub Garden","Type":"garden","Attrs":{"leisure":"garden","name":"Pub Garden","operator":"The Cellar House"}}
+"properties":{"Name":"Pub Garden","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.3994838,52.5838962]},
-"properties":{"Name":"Ryston Hall gardens","Type":"garden","Attrs":{"leisure":"garden","name":"Ryston Hall gardens"}}
+"properties":{"Name":"Ryston Hall gardens","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.4568907,52.7506574]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.688629,52.6550826]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6902454,52.6555673]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6909918,52.6554367]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6901579,52.6558597]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6890529,52.6558779]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.690316,52.6555176]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6905358,52.6555374]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6893612,52.6554813]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6901217,52.6554987]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6910691,52.6553043]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6898849,52.6554419]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6886375,52.6556614]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6892738,52.6549927]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6886336,52.6553959]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6896342,52.6554526]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6901579,52.6558597]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6893923,52.6554254]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6900216,52.6555444]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6902454,52.6555673]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6895983,52.6555028]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6898022,52.6555525]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.5059701,52.8057366]},
-"properties":{"Name":"East Ruston Old Vicarage Gardens","Type":"garden","Attrs":{"leisure":"garden","name":"East Ruston Old Vicarage Gardens","tourism":"attraction"}}
+"properties":{"Name":"East Ruston Old Vicarage Gardens","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7399576,52.405749]},
-"properties":{"Name":"Charles Burrell Community Garden","Type":"garden","Attrs":{"leisure":"garden","name":"Charles Burrell Community Garden"}}
+"properties":{"Name":"Charles Burrell Community Garden","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2952973,52.6282865]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.4970691,52.6677946]},
-"properties":{"Name":"Fairhaven Woodland and Water Garden","Type":"garden","Attrs":{"leisure":"garden","name":"Fairhaven Woodland and Water Garden","tourism":"attraction"}}
+"properties":{"Name":"Fairhaven Woodland and Water Garden","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.5135678,52.8303954]},
-"properties":{"Name":"North Gardens","Type":"garden","Attrs":{"leisure":"garden","name":"North Gardens"}}
+"properties":{"Name":"North Gardens","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.5180068,52.8315184]},
-"properties":{"Name":"Walled Garden","Type":"garden","Attrs":{"leisure":"garden","name":"Walled Garden"}}
+"properties":{"Name":"Walled Garden","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7471547,52.4143807]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7475872,52.4146674]},
-"properties":{"Name":"King's House Gardens","Type":"garden","Attrs":{"leisure":"garden","name":"King's House Gardens","source":"Bing"}}
+"properties":{"Name":"King's House Gardens","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7357081,52.4113514]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2375704,52.6254569]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2390799,52.6255594]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7496443,52.4135216]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7496443,52.4135216]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7509702,52.4140246]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2949254,52.6333905]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7194436,52.8602385]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","garden:style":"english","garden:type":"residential","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7195828,52.8605281]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","garden:style":"french","garden:type":"residential","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7203708,52.8604669]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","garden:style":"french","garden:type":"residential","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7180738,52.819035]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7183366,52.8193916]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3893873,52.8192101]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2845051,52.6318724]},
-"properties":{"Name":"Grapes Hill Community Garden","Type":"garden","Attrs":{"email":"contact@grapeshillcommunitygarden.org","leisure":"garden","name":"Grapes Hill Community Garden","website":"http://www.grapeshillcommunitygarden.org/"}}
+"properties":{"Name":"Grapes Hill Community Garden","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6894477,52.6563051]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6887586,52.6569428]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6890999,52.6561432]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6924732,52.6544216]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6914872,52.6544349]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6909377,52.6545843]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6919945,52.6545251]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6924779,52.654362]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6918916,52.6534081]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6915229,52.654206]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6915743,52.65406]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6927866,52.6544761]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6915609,52.6546468]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6893737,52.6563866]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6927866,52.6544761]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6906409,52.6535592]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6938229,52.6538678]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6918374,52.6535858]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6918374,52.6535858]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6915166,52.6547793]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6914121,52.654663]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6920635,52.6540196]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6920842,52.6548806]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6890345,52.6562925]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6897544,52.6564308]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6896993,52.6565185]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6890345,52.6563618]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6902895,52.6562163]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6894332,52.6570697]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6890383,52.6564389]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6892802,52.6561861]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6898523,52.6562138]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6897216,52.6567583]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6890524,52.656661]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6892838,52.6566087]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6890473,52.656587]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6890409,52.6565122]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6892351,52.6567776]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6911258,52.6551597]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6890332,52.6562146]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6891021,52.6567513]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6891773,52.656838]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.691705,52.654166]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6893429,52.6571672]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6933112,52.6537422]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6901579,52.656336]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6903632,52.6561493]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6890743,52.6567373]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.690225,52.6562749]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6893581,52.6562664]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6895532,52.6563488]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6917339,52.6534593]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6923932,52.6540873]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6892802,52.6561861]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6895766,52.656463]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6891773,52.656838]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6921318,52.6546691]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6929611,52.6541847]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6887549,52.6568932]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.689065,52.6561513]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.689124,52.6561427]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6891659,52.6561422]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.6893362,52.6567182]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.691734,52.6540334]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","barrier":"fence","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2940064,52.6268839]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3039652,52.6242857]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3037345,52.6248278]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3038096,52.6246537]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3046007,52.6228838]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3045551,52.6235123]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3045548,52.6235278]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3040756,52.6240206]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3043111,52.6234765]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.304244,52.6240317]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.304074,52.624094]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3053018,52.6238582]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3041126,52.6239185]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3041851,52.6236833]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3044936,52.622983]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.304354,52.6232013]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3044345,52.6230702]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2756906,52.6362957]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2756429,52.6360261]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2757317,52.6365359]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2761097,52.6363187]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2758228,52.6364568]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2758623,52.6360369]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2759629,52.6360307]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2760569,52.6361521]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.276041,52.6365096]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.276102,52.6366756]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2757433,52.6360191]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2758321,52.6365289]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.27625,52.63635]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2758227,52.636212]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2760092,52.6363256]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2760015,52.6366826]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2759564,52.6361591]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2762052,52.6366469]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2763503,52.636342]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2759405,52.6365165]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2758719,52.6360943]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2763057,52.6366399]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2757911,52.6362887]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2759726,52.6360882]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2758638,52.636697]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2764013,52.6364058]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2761691,52.6361318]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2761844,52.6365362]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2760911,52.6366182]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2761451,52.6360214]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2763263,52.6362316]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.275853,52.6366396]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2758119,52.6363994]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2757594,52.6361043]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2761456,52.6359456]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2759806,52.6365719]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2762694,52.6361238]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2759342,52.6362188]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.276226,52.6362396]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2760778,52.6362627]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2759499,52.6359002]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2762454,52.6360134]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2760513,52.6359536]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2761316,52.6358848]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2762848,52.6365292]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"access":"private","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7555997,52.4100343]},
-"properties":{"Name":"Thetford's Forgotten Garden","Type":"garden","Attrs":{"fee":"no","leisure":"garden","name":"Thetford's Forgotten Garden","opening_hours":"Th-Su 10:00-18:00","url":"http://www.explorethetford.co.uk/results_details_att.aspx?ID=25"}}
+"properties":{"Name":"Thetford's Forgotten Garden","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2161987,52.6348247]},
-"properties":{"Name":"The Bowthorpe Community Garden","Type":"garden","Attrs":{"leisure":"garden","name":"The Bowthorpe Community Garden"}}
+"properties":{"Name":"The Bowthorpe Community Garden","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.401094,52.8186321]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.730576,52.6071809]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7254893,52.6069786]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7372051,52.6070148]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7370374,52.6064683]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7376034,52.607198]},
-"properties":{"Name":"Anchor Gardens","Type":"garden","Attrs":{"leisure":"garden","name":"Anchor Gardens"}}
+"properties":{"Name":"Anchor Gardens","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7375551,52.6067061]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7370857,52.6051448]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7387903,52.6133953]},
-"properties":{"Name":"The Waterways","Type":"garden","Attrs":{"layer":"-1","leisure":"garden","name":"The Waterways"}}
+"properties":{"Name":"The Waterways","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7389324,52.6196381]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"layer":"-1","leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7361942,52.6107769]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7296221,52.6164736]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7299928,52.6181148]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7309497,52.6178206]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7362741,52.59802]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.730234,52.5666953]},
-"properties":{"Name":"Ravine Gardens","Type":"garden","Attrs":{"leisure":"garden","name":"Ravine Gardens"}}
+"properties":{"Name":"Ravine Gardens","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7796591,52.4220478]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.7568361,52.4172299]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2162247,52.6357998]},
-"properties":{"Name":"Garden of Remembrance","Type":"garden","Attrs":{"leisure":"garden","name":"Garden of Remembrance"}}
+"properties":{"Name":"Garden of Remembrance","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.258556,52.6312268]},
-"properties":{"Name":"Garden of Remembrance","Type":"garden","Attrs":{"barrier":"hedge","leisure":"garden","name":"Garden of Remembrance"}}
+"properties":{"Name":"Garden of Remembrance","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7368699,52.6283178]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7374011,52.6283074]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[0.2969875,52.7444362]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden","source":"OS VectorMap District"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7362078,52.6106311]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.7361901,52.6103553]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.3951053,52.8088905]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[1.2339888,52.8603593]},
-"properties":{"Name":"No name","Type":"garden","Attrs":{"leisure":"garden"}}
+"properties":{"Name":"No name","Type":"garden"}
 },
 {
 "type":"Feature",
