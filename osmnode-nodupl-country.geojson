@@ -1,0 +1,22 @@
+{"type":"FeatureCollection","features":[
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[-2.1358386,49.2214561]},
+"properties":{"Type":"country","Name":"Jersey","Population":"97857"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[-3.2765753,54.7023545]},
+"properties":{"Type":"country","Name":"United Kingdom","Population":"61792000"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[-4.5591148,54.1936805]},
+"properties":{"Type":"country","Name":"Isle of Man","Population":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[-2.484854,49.580437]},
+"properties":{"Type":"country","Name":"Guernsey","Population":"No data"}
+},
+{}]}
