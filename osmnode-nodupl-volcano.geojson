@@ -5966,7 +5966,7 @@
 },
 {
 "type":"Feature",
-"geometry":{"type":"Point","coordinates":[124.,12.6166667]},
+"geometry":{"type":"Point","coordinates":[124.0,12.6166667]},
 "properties":{"Type":"volcano","Name":"Binitacan","Ele":"No data","Status":"inactive"}
 },
 {
