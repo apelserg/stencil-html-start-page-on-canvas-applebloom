@@ -39,7 +39,7 @@
 "geometry":{"type":"Point","coordinates":[55.6418617,-21.2080244]},
 "properties":{"Type":"volcano","Name":"Cratère Commerson","Ele":"No data","Status":"No data"}
 },
-+{
+{
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[-13.8045574,28.9651455]},
 "properties":{"Type":"volcano","Name":"Montaña de la Vieja Gabriela","Ele":"No data","Status":"No data"}
