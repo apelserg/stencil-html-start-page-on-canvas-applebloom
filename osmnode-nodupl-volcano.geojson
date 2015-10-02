@@ -3359,4 +3359,139 @@
 "geometry":{"type":"Point","coordinates":[41.7921792,13.7212679]},
 "properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
 },
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.7331277,13.7257705]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.7185365,13.7366095]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.6826592,13.691082]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.7365609,13.6323668]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.6735612,13.7207676]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.9914781,13.3886769]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.9362031,13.3629582]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.8992959,13.4973666]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.8922578,13.5108868]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.9774018,13.5282449]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.8457376,13.6105116]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.864792,13.6268615]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.9506227,13.6865788]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.9440995,13.7125961]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.9533692,13.8106355]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.8582688,13.8319719]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[41.916977,13.8641396]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[24.7647257,14.2144357]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[24.3894739,14.0557957]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[24.1748972,14.1784892]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[24.19069,14.1690024]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[24.4068417,14.2642527]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[24.4198879,14.2907038]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[24.4664082,14.2925336]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[24.493832,14.3035904]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[24.4095882,14.3414347]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[24.4416889,14.3713688]},
+"properties":{"Type":"volcano","Name":"No data","Ele":"No data","Status":"No data"}
+},
 {}]}
