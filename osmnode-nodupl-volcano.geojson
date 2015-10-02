@@ -5704,4 +5704,294 @@
 "geometry":{"type":"Point","coordinates":[116.4614639,-8.4155095]},
 "properties":{"Type":"volcano","Name":"Gunung Rinjani","Ele":"No data","Status":"No data"}
 },
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[128.0576669,42.0068319]},
+"properties":{"Type":"volcano","Name":"백두산 - 长白山","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[94.2644196,13.4467796]},
+"properties":{"Type":"volcano","Name":"Narcondam Island","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.9470059,19.5240185]},
+"properties":{"Type":"volcano","Name":"Babuyan Claro","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.4923178,14.0675334]},
+"properties":{"Type":"volcano","Name":"Mount Banahaw","Ele":"No data","Status":"active"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.4583333,11.65]},
+"properties":{"Type":"volcano","Name":"Biliran","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.0741209,6.0055272]},
+"properties":{"Type":"volcano","Name":"Buddajo","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.0565126,12.7690618]},
+"properties":{"Type":"volcano","Name":"Mount Bulusan","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[122.1150563,18.2216667]},
+"properties":{"Type":"volcano","Name":"Cagua","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.86,18.8333333]},
+"properties":{"Type":"volcano","Name":"Camiguin de Babuyanes","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.1972257,19.0706149]},
+"properties":{"Type":"volcano","Name":"Didicas","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.6703471,9.2042086]},
+"properties":{"Type":"volcano","Name":"Hibok-hibok","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[122.0098606,20.4689979]},
+"properties":{"Type":"volcano","Name":"Iraya","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[123.4508346,13.4583417]},
+"properties":{"Type":"volcano","Name":"Iriga","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[123.1326267,10.4116967]},
+"properties":{"Type":"volcano","Name":"Kanlaon","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[126.0610225,7.3942646]},
+"properties":{"Type":"volcano","Name":"Leonard Kniaseff","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.6333333,7.48]},
+"properties":{"Type":"volcano","Name":"Makaturing","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[125.0759579,6.3600187]},
+"properties":{"Type":"volcano","Name":"Matumtum","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[123.6858831,13.2557663]},
+"properties":{"Type":"volcano","Name":"Mayon","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.685,7.6916667]},
+"properties":{"Type":"volcano","Name":"Ragang","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.3509967,15.1445511]},
+"properties":{"Type":"volcano","Name":"Mount Pinatubo","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.9906702,14.0045347]},
+"properties":{"Type":"volcano","Name":"Taal","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.9147141,19.5401227]},
+"properties":{"Type":"volcano","Name":"Smith","Ele":"No data","Status":"No data"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.7,11.0333333]},
+"properties":{"Type":"volcano","Name":"Abunug","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.0333333,10.8333333]},
+"properties":{"Type":"volcano","Name":"Aguada","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.95,11.15]},
+"properties":{"Type":"volcano","Name":"Agutaya","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.4241667,7.4211667]},
+"properties":{"Type":"volcano","Name":"Akir-akir","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.8833333,5.6916667]},
+"properties":{"Type":"volcano","Name":"Alu","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.1,17.3166667]},
+"properties":{"Type":"volcano","Name":"Ambalatungan","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.8,15.8333333]},
+"properties":{"Type":"volcano","Name":"Amorong","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[125.6778333,7.9166667]},
+"properties":{"Type":"volcano","Name":"Ampaoid","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[123.63,8.3883333]},
+"properties":{"Type":"volcano","Name":"Ampiro","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.7434961,15.1965737]},
+"properties":{"Type":"volcano","Name":"Arayat","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[125.5666667,5.8833333]},
+"properties":{"Type":"volcano","Name":"Bagsak","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.4333333,19.3166667]},
+"properties":{"Type":"volcano","Name":"Bagua","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.9333333,18.95]},
+"properties":{"Type":"volcano","Name":"Balatubat","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.9833333,8.7666667]},
+"properties":{"Type":"volcano","Name":"Balatukan","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.3666667,14.95]},
+"properties":{"Type":"volcano","Name":"Balikabok","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[125.171,6.3083333]},
+"properties":{"Type":"volcano","Name":"Balo Dome","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.6833333,15.8666667]},
+"properties":{"Type":"volcano","Name":"Balungao","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.513256,14.075548]},
+"properties":{"Type":"volcano","Name":"Banahao De Lucban","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.7333333,15.7833333]},
+"properties":{"Type":"volcano","Name":"Bangcay","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[122.0666667,12.9166667]},
+"properties":{"Type":"volcano","Name":"Banton","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.4833333,11.4333333]},
+"properties":{"Type":"volcano","Name":"Baonao","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[125.1475,6.2466667]},
+"properties":{"Type":"volcano","Name":"Base Peak","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[122.0666667,6.55]},
+"properties":{"Type":"volcano","Name":"Basilan","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[123.1833333,7.4833333]},
+"properties":{"Type":"volcano","Name":"Batelian","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[123.95,12.8333333]},
+"properties":{"Type":"volcano","Name":"Mount Batuan","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.7908352,14.0491353]},
+"properties":{"Type":"volcano","Name":"Toong","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.0955,7.7871667]},
+"properties":{"Type":"volcano","Name":"Baya","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[125.3916667,6.1543333]},
+"properties":{"Type":"volcano","Name":"Bee Hive Peak","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[123.2833333,7.8541667]},
+"properties":{"Type":"volcano","Name":"Bigong","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.0166667,6.95]},
+"properties":{"Type":"volcano","Name":"Binaca","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.,12.6166667]},
+"properties":{"Type":"volcano","Name":"Binitacan","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.1333333,17.25]},
+"properties":{"Type":"volcano","Name":"Binuluan","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[120.9666667,10.8166667]},
+"properties":{"Type":"volcano","Name":"Bisucay","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[121.4416667,6.0666667]},
+"properties":{"Type":"volcano","Name":"Bitinan","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.2833333,7.5]},
+"properties":{"Type":"volcano","Name":"Bito","Ele":"No data","Status":"inactive"}
+},
+{
+"type":"Feature",
+"geometry":{"type":"Point","coordinates":[124.2166667,6.9583333]},
+"properties":{"Type":"volcano","Name":"Blik","Ele":"No data","Status":"inactive"}
+},
 {}]}
