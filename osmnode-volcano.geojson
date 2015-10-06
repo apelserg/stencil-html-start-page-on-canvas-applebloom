@@ -1,4 +1,4 @@
-{"type":"FeatureCollection","features":[
+﻿{"type":"FeatureCollection","features":[
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[-17.8514224,28.4827956]},
@@ -9812,7 +9812,7 @@
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[37.6110652,45.0709087]},
-"properties":{"Type":"volcano","Name":"Грязевой вулкан "Шуго"","Name(en)":"No data","Name(ru)":"No data","Ele":0,"Status":"No data"}
+"properties":{"Type":"volcano","Name":"Грязевой вулкан 'Шуго'","Name(en)":"No data","Name(ru)":"No data","Ele":0,"Status":"No data"}
 },
 {
 "type":"Feature",
@@ -11382,7 +11382,7 @@
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[11.7734963,44.046387]},
-"properties":{"Type":"volcano","Name":""Vulcano" di Monte Busca","Name(en)":"No data","Name(ru)":"No data","Ele":0,"Status":"No data"}
+"properties":{"Type":"volcano","Name":"'Vulcano' di Monte Busca","Name(en)":"No data","Name(ru)":"No data","Ele":0,"Status":"No data"}
 },
 {
 "type":"Feature",
@@ -12137,7 +12137,7 @@
 {
 "type":"Feature",
 "geometry":{"type":"Point","coordinates":[37.6110652,45.0709087]},
-"properties":{"Type":"volcano","Name":"Грязевой вулкан "Шуго"","Name(en)":"No data","Name(ru)":"No data","Ele":0,"Status":"No data"}
+"properties":{"Type":"volcano","Name":"Грязевой вулкан 'Шуго'","Name(en)":"No data","Name(ru)":"No data","Ele":0,"Status":"No data"}
 },
 {
 "type":"Feature",
